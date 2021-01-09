@@ -1,8 +1,7 @@
-# **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
+> https://dev.azure.com/roel-S2/SmartHotel360 
+> https://azuredevopsdemogenerator.azurewebsites.net/ 
 
-## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
-
-# SmartHotel360
+# SmartHotel360 Intro
 
 We are happy to announce the release of SmartHotel360. This release intends to share a simplified version of SmartHotel360 reference sample apps used at Connect(); 2017 Keynotes. If you missed it, you can watch <a href="https://channel9.msdn.com/Events/Connect/2017/K100">Scott Guthrie’s Keynote: Journey to the Intelligent Cloud in Channel 9</a>.
 
@@ -167,3 +166,6 @@ provided by the bot. You will only need to do this once across all repos using o
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
 For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
 contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
+# **This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.**
+## For the latest sample references visit: https://aka.ms/tailwindtraders & https://aka.ms/rpsls 
